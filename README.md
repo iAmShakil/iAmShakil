@@ -5,7 +5,7 @@ I'm Shakil Ahmed, a Software Developer from Dhaka, Bangladesh.
 **What I am doing**:
 
 - ✍️ Writing for [my blog](https://shakil.me)
-- 💻 Working at a [health tech startup](https://polyfins.com)
+- 💻 Working for [Upwork](https://www.upwork.com)
 - ✨ Contributing to OSS
 - ⌨️ Building digital products
 
